@@ -1,23 +1,25 @@
-<div align="center">
+<!-- Replace YOUR_USERNAME with your actual GitHub username -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=ANUSHKA%20GUPTA&fontSize=48&color=0:0f172a,50:4c1d95,100:7c3aed&stroke=8b5cf6&fontColor=ffffff&animation=fadeIn&desc=COMPUTER%20SCIENCE%20%7C%20AI%20%26%20ML&descSize=17&descAlignY=70"/>
+<h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Exploring+Artificial+Intelligence;Learning+to+Build+Something+Amazing;One+Line+of+Code+at+a+Time." />
+<h3 align="center">
+  CSE (AI & ML) Student | Aspiring Developer | Lifelong Learner
+</h3>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+with+C%2B%2B+and+Python;Turning+Ideas+into+Projects" alt="Typing SVG" />
+</p>
 
-<a href="https://www.linkedin.com/in/anushka-gupta-4a2432377/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PROFILE-ASPIRING%20DEVELOPER-1E1B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-312E81?style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## `01` — About Me
+## 👩‍💻 01 — About Me
 
 ```python
-class AnushkaRai:
+class AnushkaGupta:
     def __init__(self):
         self.role = "CSE (AI & ML) Student"
         self.interests = [
@@ -28,108 +30,93 @@ class AnushkaRai:
         self.current_focus = "Learning & Building"
         self.mindset = "Curiosity > Perfection"
 
-    def goal(self):
+    def mission(self):
         return "Turn ideas into meaningful projects"
 ```
 
-Hi! I'm **Anushka Rai**, a Computer Science student exploring the intersection of technology, intelligence, and creativity.
+I'm a Computer Science student passionate about technology,
+problem-solving, and exploring intelligent systems.
 
-I'm at the beginning of my development journey, learning the fundamentals and gradually turning what I learn into practical projects.
-
----
-
-## `02` — My Tech Universe
-
-<div align="center">
-
-**Languages I'm Exploring**
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
-
-<br/><br/>
-
-**Web Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-
-<br/><br/>
-
-**Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
+- 🌱 Learning programming and development fundamentals
+- 🤖 Exploring AI and Machine Learning
+- 💡 Interested in turning ideas into useful projects
+- 🎯 Focused on continuous learning and growth
+- ✨ Believe in progress over perfection
 
 ---
 
-## `03` — Current Mission
+## 💻 02 — My Tech Universe
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" alt="Technology stack" />
+</p>
 
-### 🧠 Learn
+### Areas of Interest
 
-- Programming fundamentals
-- AI & ML concepts
-- Data Structures & Algorithms
-- Problem-solving techniques
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Build
-
-- Beginner-friendly projects
-- Programming experiments
-- Small web applications
-- A strong developer portfolio
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Development" />
+</p>
 
 ---
 
-## `04` — GitHub Analytics
+## 🎯 03 — My Current Mission
 
-<div align="center">
+- 📚 Strengthening C++ and Data Structures & Algorithms
+- 🧠 Building a foundation in AI and Machine Learning
+- 🛠️ Practicing problem-solving through coding
+- 🚀 Developing projects that solve real-world problems
+- 🌱 Learning something new every day
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true"/>
-
-</div>
+> "Small steps every day lead to remarkable progress."
 
 ---
 
-## `05` — Beyond the Code
+## 🛠️ 04 — Projects & Experiments
 
-- 🌱 Always curious, always learning.
-- 💡 Interested in innovative ideas and emerging technologies.
-- 🤝 Open to connecting with fellow learners.
-- 🚀 Working towards becoming a skilled software developer.
+I'm working towards building projects that combine creativity and technology.
+
+- 🔹 **QR Code Generator** — Exploring QR codes and digital information sharing
+- 🔹 **AI Resume Analyzer** — Exploring resume analysis with Python
+- 🔹 **Future Projects** — More ideas, experiments, and things to learn
+
+<p>
+  <i>More projects coming as I continue my journey!</i>
+</p>
 
 ---
 
-## `06` — Find Me Online
+## 📊 05 — GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<a href="https://www.linkedin.com/in/anushka-gupta-4a2432377/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-<br/><br/>
+---
 
-**Have an idea? Let's learn, create, and grow together.**
+## 🌐 06 — Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f172a&height=130&section=footer"/>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<sub>Designed with 💜 by Anushka Rai</sub>
+---
 
-</div>
+<p align="center">
+  <b>✨ Learn continuously. Build thoughtfully. Grow fearlessly. ✨</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 💙
+</p>
