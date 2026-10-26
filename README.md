@@ -1,6 +1,6 @@
 <!-- Replace YOUR_USERNAME with your actual GitHub username -->
 
-<h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
+<h1 align="center">Hi 👋, I'm Anushka rai</h1>
 
 <h3 align="center">
   CSE (AI & ML) Student | Aspiring Developer | Lifelong Learner
