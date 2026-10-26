@@ -19,7 +19,7 @@
 ## 👩‍💻 01 — About Me
 
 ```python
-class AnushkaGupta:
+class Anushkarai:
     def __init__(self):
         self.role = "CSE (AI & ML) Student"
         self.interests = [
