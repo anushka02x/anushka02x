@@ -1,16 +1,21 @@
-## Hi there 👋
+python
+class AnushkaGupta:
+    role = "CSE (AI & ML) Student"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Development"
+    ]
+    motto = "Curiosity > Perfection"
 
-<!--
-**anushka02x/anushka02x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def goal(self):
+        return "Turning ideas into meaningful projects"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm *Anushka Gupta*, a Computer Science student passionate about technology, AI, and creative problem-solving.
+
+🌱 Currently learning programming and building my skills step by step.
+
+🎯 My goal is to transform ideas into meaningful projects.
+
+---
