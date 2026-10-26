@@ -17,7 +17,7 @@
 ## `01` — About Me
 
 ```python
-class AnushkaGupta:
+class AnushkaRai:
     def __init__(self):
         self.role = "CSE (AI & ML) Student"
         self.interests = [
@@ -32,7 +32,7 @@ class AnushkaGupta:
         return "Turn ideas into meaningful projects"
 ```
 
-Hi! I'm **Anushka Gupta**, a Computer Science student exploring the intersection of technology, intelligence, and creativity.
+Hi! I'm **Anushka Rai**, a Computer Science student exploring the intersection of technology, intelligence, and creativity.
 
 I'm at the beginning of my development journey, learning the fundamentals and gradually turning what I learn into practical projects.
 
@@ -130,6 +130,6 @@ I'm at the beginning of my development journey, learning the fundamentals and gr
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f172a&height=130&section=footer"/>
 
-<sub>Designed with 💜 by Anushka Gupta</sub>
+<sub>Designed with 💜 by Anushka Rai</sub>
 
 </div>
