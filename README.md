@@ -1,5 +1,5 @@
 python
-class AnushkaGupta:
+class AnushkaRai:
     role = "CSE (AI & ML) Student"
     interests = [
         "Artificial Intelligence",
@@ -12,7 +12,7 @@ class AnushkaGupta:
         return "Turning ideas into meaningful projects"
 
 
-Hi! I'm *Anushka Gupta*, a Computer Science student passionate about technology, AI, and creative problem-solving.
+Hi! I'm *Anushka Rai*, a Computer Science student passionate about technology, AI, and creative problem-solving.
 
 🌱 Currently learning programming and building my skills step by step.
 
