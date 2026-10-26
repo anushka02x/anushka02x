@@ -69,25 +69,12 @@ problem-solving, and exploring intelligent systems.
 - 🚀 Developing projects that solve real-world problems
 - 🌱 Learning something new every day
 
-> "Small steps every day lead to remarkable progress."
 
 ---
 
-## 🛠️ 04 — Projects & Experiments
 
-I'm working towards building projects that combine creativity and technology.
 
-- 🔹 **QR Code Generator** — Exploring QR codes and digital information sharing
-- 🔹 **AI Resume Analyzer** — Exploring resume analysis with Python
-- 🔹 **Future Projects** — More ideas, experiments, and things to learn
-
-<p>
-  <i>More projects coming as I continue my journey!</i>
-</p>
-
----
-
-## 📊 05 — GitHub Analytics
+## 📊 04 — GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
@@ -106,7 +93,7 @@ I'm working towards building projects that combine creativity and technology.
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/anushka-rai-358549398?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
